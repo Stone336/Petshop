@@ -1,0 +1,36 @@
+/* CARTEGORYS */
+.cartegory {
+  padding-bottom: 60px;
+}
+.content-title {
+  margin-top: 12%;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.col {
+  text-align: center;
+}
+.col h3 {
+  text-align: center;
+}
+.col span {
+  text-align: center;
+  display: block;
+}
+.col .add-to-cart-btn  {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3c4161;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-top: 20px;
+}
+.add-to-cart-btn:hover {
+  background-color: #3c4161;
+  transform: scale(1.05);
+}
